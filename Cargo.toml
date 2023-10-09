@@ -2,6 +2,11 @@
 name = "easy_rand"
 version = "0.1.0"
 edition = "2021"
+authors = ["Helder Duarte"]
+readme = "README.md"
+repository = "https://github.com/helderTZ/easy_rand"
+license = "MIT"
+description = "Small Rust wrapper library for calling POSIX's srand() and rand() functions."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
