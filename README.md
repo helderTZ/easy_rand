@@ -1,4 +1,4 @@
-# rando
+# easy_rand
 
 Small Rust wrapper library for calling POSIX's srand() and rand() functions.
 
